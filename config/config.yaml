@@ -1,0 +1,5 @@
+api:
+  base_url: "http://localhost:8081"
+  token: "test-token"       # Leave empty if your API doesn't require authentication
+scrape_interval: 5   # in seconds
+debug: true # full API response 

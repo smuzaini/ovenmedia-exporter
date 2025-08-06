@@ -1,0 +1,15 @@
+# HTTP requests to OvenMedia API
+requests==2.31.0
+
+# Prometheus exporter client library
+prometheus_client==0.20.0
+
+# Config file handling
+PyYAML==6.0.2
+
+# Logging with better formatting (optional, recommended)
+loguru==0.7.2
+
+# Testing
+pytest==8.3.2
+pytest-cov==5.0.0
